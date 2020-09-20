@@ -26,7 +26,7 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 
 ![Image description](https://github.com/ndeloney0/NPHackMIT/blob/master/Screenshots/Screen%20Shot%202020-09-20%20at%2012.40.08%20AM.png)
 
-![Image description]
+![Image description](https://github.com/ndeloney0/NPHackMIT/blob/master/Screenshots/Screen%20Shot%202020-09-20%20at%2012.42.21%20AM.png)
 
 ### Improvements and Learning Lessons
 
