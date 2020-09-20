@@ -1,13 +1,13 @@
 # NPHackMIT - Quoala
 [HackMIT2020 Project Submission](https://spectacle.hackmit.org/project/240)
 
-## Overview
+### Overview
 
 - The Koala Bear is known to be one of the happiest Mammalia on the planet
 - Quoala is a tool designed to dynamically assess its users mental health
 - Questions asked by our client will determine a score given to users. This score will impact how we plan to manage their daily tasks.
 
-## Project Objectives
+### Project Objectives
 
 With a few simple questions, and many tasks the user has to do, we want to simplify their day while providing mental health advice to keep them going!
 
@@ -36,12 +36,12 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 - Dynamically grabbing data from new research and data found in Mental Health studies
 - Communication while working virtually
 
-## For the Future: Methodologies & More Devices
+### For the Future: Methodologies & More Devices
 - Bringing Fresh Research-Based Features and More Users
 - We plan to conduct more research to determine our users outcomes and task lists. 
 - Making our app accessible across all devices will help us grow!
 
-## Built With
+### Built With
 
 * [Qt](https://www.qt.io) - Graphical User Interface
 
