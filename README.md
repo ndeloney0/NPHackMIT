@@ -1,5 +1,5 @@
 # NPHackMIT - Quoala
-For HackMIT2020
+[HackMIT2020 Project Submission](https://spectacle.hackmit.org/project/240)
 
 ## Overview
 
