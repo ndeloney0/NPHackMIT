@@ -36,6 +36,11 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 - Dynamically grabbing data from new research and data found in Mental Health studies
 - Communication while working virtually
 
+## For the Future: Methodologies & More Devices
+- Bringing Fresh Research-Based Features and More Users
+- We plan to conduct more research to determine our users outcomes and task lists. 
+- Making our app accessible across all devices will help us grow!
+
 ## Built With
 
 * [Qt](https://www.qt.io) - Graphical User Interface
@@ -47,13 +52,6 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 - https://www.theladders.com/career-advice/this-is-the-ideal-amount-of-downtime-you-need-per-day#:~:text=While%20needs%20vary%20among%20individuals,five%20hours%20of%20downtime%20daily
 - https://www.health.harvard.edu/diet-and-weight-loss/eating-frequency-and-weight-loss
 - https://www.theladders.com/career-advice/this-is-the-ideal-amount-of-downtime-you-need-per-day
-
-## For the Future: Methodologies & More Devices
-Bringing Fresh Research-Based Features and More Users
-
-We plan to conduct more research to determine our users outcomes and task lists. 
-
-Making our app accessible across all devices will help us grow!
 
 ## Authors
 * **Nick Deloney** - Frontend/Backend Developer - [ndeloney0](https://github.com/ndeloney0)
