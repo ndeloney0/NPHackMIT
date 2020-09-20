@@ -40,7 +40,7 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 
 - https://www.sleepfoundation.org/articles/how-much-sleep-do-we-really-need
 - https://www.health.harvard.edu/diet-and-weight-loss/eating-frequency-and-weight-loss#:~:text=The%20limited%20research%20suggests%20that,lead%20to%20feelings%20of%20fullness
--BMC Psychiatry. 8/8/2020, Vol. 20 Issue 1, p1-11. 11p. 2 Charts.
+- BMC Psychiatry. 8/8/2020, Vol. 20 Issue 1, p1-11. 11p. 2 Charts.
 https://www.theladders.com/career-advice/this-is-the-ideal-amount-of-downtime-you-need-per-day#:~:text=While%20needs%20vary%20among%20individuals,five%20hours%20of%20downtime%20daily
 - https://www.health.harvard.edu/diet-and-weight-loss/eating-frequency-and-weight-loss
 - https://www.theladders.com/career-advice/this-is-the-ideal-amount-of-downtime-you-need-per-day
