@@ -42,5 +42,7 @@ https://www.theladders.com/career-advice/this-is-the-ideal-amount-of-downtime-yo
 
 **For the Future: Methodologies & More Devices**
 Bringing Fresh Research-Based Features and More Users
+
 We plan to conduct more research to determine our users outcomes and task lists. 
+
 Making our app accessible across all devices will help us grow!
