@@ -36,6 +36,10 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 - Dynamically grabbing data from new research and data found in Mental Health studies
 - Communication while working virtually
 
+## Built With
+
+* [Qt](https://www.qt.io) - Graphical User Interface
+
 ### Algorithms established based off research from sources from renound orginazations
 
 - https://www.sleepfoundation.org/articles/how-much-sleep-do-we-really-need
@@ -50,3 +54,11 @@ Bringing Fresh Research-Based Features and More Users
 We plan to conduct more research to determine our users outcomes and task lists. 
 
 Making our app accessible across all devices will help us grow!
+
+## Authors
+* **Nick Deloney** - Frontend/Backend Developer - [ndeloney0](https://github.com/ndeloney0)
+* **Kenneth Casimiro** - Frontend/Backend Developer - [kencasimiro](https://github.com/kencasimiro)
+* **Matin Ghaffari** - Algorithm Developer - [matin-g](https://github.com/matin-g)
+* **Mason Delan** - Algorithm Developer - [masondelan](https://github.com/masondelan)
+
+See also the list of [contributors](https://github.com/ndeloney0/NPHackMIT/graphs/contributors) who participated in this project.
