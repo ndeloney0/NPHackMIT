@@ -24,7 +24,7 @@ During our Brainstorm Phase, we aimed to provide an application for all ages. Bu
 - Analyzing all the data the user provides about their life
 - Ultimately, giving the best advice to the user, with a manageable task list for their day
 
-![Image description]
+![Image description](https://github.com/ndeloney0/NPHackMIT/blob/master/Screenshots/Screen%20Shot%202020-09-20%20at%2012.40.08%20AM.png)
 
 ![Image description]
 
