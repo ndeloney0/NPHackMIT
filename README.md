@@ -1,6 +1,5 @@
-# NPHackMIT
+# NPHackMIT - Quoala
 For HackMIT2020
-# Quoala
 
 ## Overview
 
