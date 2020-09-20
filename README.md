@@ -11,7 +11,7 @@
 
 With a few simple questions, and many tasks the user has to do, we want to simplify their day while providing mental health advice to keep them going!
 
-![Image description] 
+![Image description](https://github.com/ndeloney0/NPHackMIT/blob/master/Screenshots/Screen%20Shot%202020-09-20%20at%2012.39.15%20AM.png)
 
 ### Target Audience
 
