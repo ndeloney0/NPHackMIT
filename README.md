@@ -15,7 +15,7 @@ With a few simple questions, and many tasks the user has to do, we want to simpl
 
 ### Target Audience
 
-During our Brainstorm Phase, we aimed to provide an application for all ages. But due to limited time and resources, we decided to target ages between 14-25^. 
+During our Brainstorm Phase, we aimed to provide an application for all ages. But due to limited time and resources, we decided to target ages between 14 - 25. 
 
 ### Understanding the Problems
 
